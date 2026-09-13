@@ -1,0 +1,163 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String        @id @default(cuid())
+  email        String        @unique
+  password     String
+  name         String
+  role         String        @default("SISWA")
+  kelas        Int?
+  avatar       String        @default("ara")
+  exp          Int           @default(0)
+  level        Int           @default(1)
+  kristal      Int           @default(0)
+  streak       Int           @default(0)
+  lastLoginAt  DateTime?
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+  progress     Progress[]
+  badges       UserBadge[]
+  quizAttempts QuizAttempt[]
+  gameScores   GameScore[]
+
+  @@index([kelas])
+  @@index([role])
+}
+
+model Subject {
+  id      String   @id @default(cuid())
+  slug    String   @unique
+  name    String
+  emoji   String
+  color   String
+  urutan  Int      @default(0)
+  lessons Lesson[]
+
+  @@index([slug])
+}
+
+model Lesson {
+  id        String        @id
+  subjectId String
+  subject   Subject       @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  kelas     Int
+  title     String
+  urutan    Int
+  content   String
+  imageUrl  String?
+  audioUrl  String?
+  videoUrl  String?
+  expReward Int           @default(20)
+  quizzes   Quiz[]
+  progress  Progress[]
+  attempts  QuizAttempt[]
+
+  @@index([subjectId, kelas])
+  @@index([kelas])
+}
+
+model Quiz {
+  id         String        @id @default(cuid())
+  lessonId   String
+  lesson     Lesson        @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  type       String        @default("PILIHAN_GANDA")
+  question   String
+  imageUrl   String?
+  audioUrl   String?
+  options    String
+  answer     String
+  penjelasan String?
+  exp        Int           @default(10)
+  urutan     Int           @default(0)
+  attempts   QuizAttempt[]
+
+  @@index([lessonId])
+}
+
+model Game {
+  id        String      @id @default(cuid())
+  type      String
+  title     String
+  kelas     Int
+  subjectId String?
+  config    String
+  exp       Int         @default(50)
+  kristal   Int         @default(10)
+  scores    GameScore[]
+
+  @@index([kelas, type])
+}
+
+model GameScore {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  gameId     String
+  game       Game     @relation(fields: [gameId], references: [id], onDelete: Cascade)
+  score      Int
+  waktuDetik Int      @default(0)
+  playedAt   DateTime @default(now())
+
+  @@index([userId])
+  @@index([gameId])
+}
+
+model Progress {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lessonId  String
+  lesson    Lesson   @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  completed Boolean  @default(false)
+  skor      Int      @default(0)
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, lessonId])
+  @@index([userId])
+}
+
+model QuizAttempt {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lessonId    String
+  lesson      Lesson   @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  quizId      String
+  quiz        Quiz     @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  userAnswer  String
+  isCorrect   Boolean
+  expGained   Int      @default(0)
+  attemptedAt DateTime @default(now())
+
+  @@index([userId])
+  @@index([quizId])
+}
+
+model Badge {
+  id          String      @id @default(cuid())
+  slug        String      @unique
+  name        String
+  emoji       String
+  description String
+  requirement String
+  users       UserBadge[]
+}
+
+model UserBadge {
+  id       String   @id @default(cuid())
+  userId   String
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  badgeId  String
+  badge    Badge    @relation(fields: [badgeId], references: [id], onDelete: Cascade)
+  earnedAt DateTime @default(now())
+
+  @@unique([userId, badgeId])
+  @@index([userId])
+}

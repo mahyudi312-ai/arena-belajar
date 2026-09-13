@@ -1,0 +1,77 @@
+{
+  "subject": {
+    "slug": "matematika",
+    "name": "Matematika",
+    "emoji": "🔢",
+    "color": "from-blue-400 to-blue-600",
+    "kelas": 6
+  },
+  "lessons": [
+    {
+      "id": "mtk-6-01",
+      "title": "Bilangan Bulat Positif & Negatif",
+      "order": 1,
+      "expReward": 45,
+      "content": "## Bilangan Bulat Positif & Negatif\n\nSekarang kita belajar angka di bawah nol!\n\n### Garis Bilangan\n\n```\n-5  -4  -3  -2  -1   0   1   2   3   4   5\n```\n\n**Aturan:**\n- Semakin ke kanan → semakin besar\n- Semakin ke kiri → semakin kecil\n\nContoh:\n- 3 > -5 (3 lebih besar dari -5)\n- -2 > -7 (-2 lebih besar dari -7)\n- -8 < -3\n\n### Operasi Penjumlahan\n\n**Aturan tanda:**\n- (+) + (+) = (+)\n- (-) + (-) = (-)\n- (+) + (-) → kurangi, ikut tanda yang besar\n\n**Contoh:**\n- 5 + 3 = 8\n- -5 + (-3) = -8\n- 5 + (-3) = 2\n- -5 + 3 = -2\n\n### Operasi Pengurangan\n\n**Ingat:** a - (-b) = a + b\n\n**Contoh:**\n- 5 - (-3) = 5 + 3 = 8\n- -5 - (-3) = -5 + 3 = -2\n- -5 - 3 = -8\n\n### Soal Cerita\n\n**Soal:** Suhu di Tokyo -5°C. Naik 8°C. Suhu sekarang?\n\n**Jawab:** -5 + 8 = **3°C**\n\n**Soal:** Kapal selam di -200 m. Naik 150 m. Posisi sekarang?\n\n**Jawab:** -200 + 150 = **-50 m**\n\n### Berpikir Kritis\n\n**Soal:** Mana yang lebih dingin: -10°C atau -3°C?\n\n**Jawab:** **-10°C** (semakin negatif = semakin dingin)\n\n**Soal:** Suhu naik dari -8°C ke 2°C. Berapa kenaikannya?\n\n**Jawab:** 2 - (-8) = 2 + 8 = **10°C**"
+    },
+    {
+      "id": "mtk-6-02",
+      "title": "Bangun Ruang — Volume",
+      "order": 2,
+      "expReward": 45,
+      "content": "## Bangun Ruang — Volume\n\nMenghitung isi ruang 3D!\n\n### Kubus\n\n**Rumus:** V = s × s × s = s³\n\n**Contoh:** Kubus sisi 5 cm\nV = 5 × 5 × 5 = **125 cm³**\n\n### Balok\n\n**Rumus:** V = p × l × t\n\n**Contoh:** Balok 8 cm × 5 cm × 3 cm\nV = 8 × 5 × 3 = **120 cm³**\n\n### Tabung\n\n**Rumus:** V = π × r² × t\n\n**Contoh:** Tabung r=7 cm, t=10 cm (π = 22/7)\nV = 22/7 × 7² × 10 = 22/7 × 49 × 10 = **1.540 cm³**\n\n### Soal Cerita\n\n**Soal:** Kolam berbentuk balok dengan panjang 4 m, lebar 2 m, tinggi 1 m. Volume air maksimal?\n\n**Jawab:** V = 4 × 2 × 1 = **8 m³** = 8.000 liter\n\n### Berpikir Kritis\n\n**Soal:** Mana yang lebih besar: kubus sisi 6 cm atau balok 8×4×3 cm?\n\n**Jawab:**\n- Kubus: 6³ = 216 cm³\n- Balok: 8×4×3 = 96 cm³\n- **Kubus lebih besar**\n\n### Literasi Numerasi\n\n**Soal:** Akuarium 60×30×40 cm. Volume air maksimal?\n\n**Jawab:** 60×30×40 = **72.000 cm³** = 72 liter"
+    },
+    {
+      "id": "mtk-6-03",
+      "title": "Bangun Datar — Luas & Keliling",
+      "order": 3,
+      "expReward": 45,
+      "content": "## Bangun Datar — Luas & Keliling\n\nUkuran 2D dalam kehidupan!\n\n### Persegi\n\n**Luas:** L = s × s\n**Keliling:** K = 4 × s\n\n**Contoh:** Sisi 6 cm → L = 36 cm², K = 24 cm\n\n### Persegi Panjang\n\n**Luas:** L = p × l\n**Keliling:** K = 2 × (p + l)\n\n**Contoh:** 8 × 5 cm → L = 40 cm², K = 26 cm\n\n### Segitiga\n\n**Luas:** L = ½ × a × t\n\n**Contoh:** Alas 8 cm, tinggi 6 cm → L = ½ × 8 × 6 = **24 cm²**\n\n### Lingkaran\n\n**Luas:** L = π × r²\n**Keliling:** K = 2 × π × r\n\n**Contoh:** r = 7 cm, π = 22/7\n- L = 22/7 × 49 = 154 cm²\n- K = 2 × 22/7 × 7 = 44 cm\n\n### Soal Cerita\n\n**Soal:** Taman berbentuk persegi panjang 20 m × 15 m. Berapa luasnya? Kalau dipasang pagar, berapa panjang pagar?\n\n**Jawab:**\n- Luas = 20 × 15 = **300 m²**\n- Keliling = 2(20 + 15) = **70 m**\n\n### Berpikir Kritis\n\n**Soal:** Mana yang lebih luas: persegi sisi 8 cm atau lingkaran r=4 cm?\n\n**Jawab:**\n- Persegi: 8² = 64 cm²\n- Lingkaran: 3,14 × 4² = 50,24 cm²\n- **Persegi lebih luas**"
+    },
+    {
+      "id": "mtk-6-04",
+      "title": "Statistika — Mean, Median, Modus",
+      "order": 4,
+      "expReward": 45,
+      "content": "## Statistika — Mean, Median, Modus\n\nMenganalisis data & membuat kesimpulan!\n\n### Mean (Rata-rata)\n\n**Rumus:** Mean = Jumlah data ÷ Banyak data\n\n**Contoh:** Nilai: 7, 8, 6, 9, 10\nMean = (7+8+6+9+10) ÷ 5 = 40 ÷ 5 = **8**\n\n### Median (Nilai Tengah)\n\nUrutkan dulu, lalu ambil tengah.\n\n**Contoh 1 (ganjil):** 6, 7, **8**, 9, 10 → Median = **8**\n\n**Contoh 2 (genap):** 6, 7, **8, 9**, 10, 11 → Median = (8+9) ÷ 2 = **8,5**\n\n### Modus (Paling Sering)\n\n**Contoh:** 7, 8, 8, 9, 9, 9, 10 → Modus = **9** (paling sering muncul)\n\n### Soal Cerita\n\n**Soal:** Nilai ulangan 5 siswa: 80, 85, 90, 75, 70. Rata-rata?\n\n**Jawab:** (80+85+90+75+70) ÷ 5 = 400 ÷ 5 = **80**\n\n### Soal Literasi Numerasi\n\n**Soal:** Data penjualan 5 hari: 20, 30, 25, 35, 40. Rata-rata penjualan/hari?\n\n**Jawab:** 150 ÷ 5 = **30 unit**\n\n### Berpikir Kritis\n\n**Soal:** Nilai: 7, 7, 8, 8, 8, 9, 10. Berapa mean, median, modus?\n\n**Jawab:**\n- Mean = (7+7+8+8+8+9+10) ÷ 7 = 57 ÷ 7 ≈ **8,14**\n- Median = data ke-4 (urut) = **8**\n- Modus = **8** (muncul 3x)"
+    },
+    {
+      "id": "mtk-6-05",
+      "title": "Skala, Perbandingan & Kecepatan Lanjutan",
+      "order": 5,
+      "expReward": 50,
+      "content": "## Skala, Perbandingan & Kecepatan Lanjutan\n\nSoal HOTS tingkat tinggi!\n\n### Skala (Review)\n\n**Skala 1 : n** artinya 1 cm di gambar = n cm nyata.\n\n**Rumus:**\n- Jarak nyata = Jarak peta × Skala\n- Jarak peta = Jarak nyata ÷ Skala\n\n### Soal Skala\n\n**Soal:** Peta skala 1:1.500.000. Jarak Jakarta-Bandung di peta 10 cm. Jarak nyata?\n\n**Jawab:** 10 × 1.500.000 = 15.000.000 cm = **150 km**\n\n### Perbandingan Berbalik Nilai\n\n**Semakin banyak pekerja, semakin cepat selesai.**\n\n**Rumus:** n₁ × t₁ = n₂ × t₂\n\n**Soal:** 4 pekerja selesai 12 hari. Kalau 6 pekerja, berapa hari?\n\n**Jawab:** 4 × 12 = 6 × t → 48 = 6t → t = **8 hari**\n\n### Kecepatan — Soal HOTS\n\n**Soal:** Andi bersepeda 12 km/jam selama 20 menit. Berapa km jarak?\n\n**Jawab:** 20 menit = 1/3 jam\n12 × 1/3 = **4 km**\n\n**Soal:** Dua mobil berlawanan arah. Mobil A 60 km/jam, B 50 km/jam. Jarak 330 km. Kapan berpapasan?\n\n**Jawab:**\n- Kecepatan gabungan = 60+50 = 110 km/jam\n- Waktu = 330 ÷ 110 = **3 jam**\n\n### Berpikir Kritis\n\n**Soal:** Andi berjalan 4 km/jam ke sekolah. Kalau naik sepeda 12 km/jam, waktu tempuh jadi berapa kali lebih cepat?\n\n**Jawab:** 12/4 = 3 → **3x lebih cepat**\n\n### Literasi Numerasi\n\n**Soal:** Kelas punya 40 siswa. Perbandingan siswa suka matematika : tidak = 3:2. Berapa yang suka matematika?\n\n**Jawab:** 3/5 × 40 = **24 siswa**"
+    }
+  ],
+  "quizzes": [
+    { "lessonId": "mtk-6-01", "type": "PILIHAN_GANDA", "question": "Mana yang lebih kecil: -7 atau -3?", "options": ["-7", "-3", "Sama", "Tidak tahu"], "answer": "-7", "exp": 15 },
+    { "lessonId": "mtk-6-01", "type": "PILIHAN_GANDA", "question": "5 - (-3) = ?", "options": ["2", "8", "-8", "-2"], "answer": "8", "exp": 15 },
+    { "lessonId": "mtk-6-01", "type": "PILIHAN_GANDA", "question": "Suhu Tokyo -5°C, naik 8°C. Suhu sekarang?", "options": ["-3°C", "3°C", "13°C", "-13°C"], "answer": "3°C", "exp": 15 },
+    { "lessonId": "mtk-6-01", "type": "PILIHAN_GANDA", "question": "Kapal selam di -200m, naik 150m. Posisi?", "options": ["-350m", "-50m", "50m", "350m"], "answer": "-50m", "exp": 15 },
+    { "lessonId": "mtk-6-01", "type": "PILIHAN_GANDA", "question": "Suhu naik dari -8°C ke 2°C. Kenaikan?", "options": ["6°C", "8°C", "10°C", "12°C"], "answer": "10°C", "exp": 15 },
+
+    { "lessonId": "mtk-6-02", "type": "PILIHAN_GANDA", "question": "Kubus sisi 5 cm. Volume?", "options": ["15 cm³", "25 cm³", "100 cm³", "125 cm³"], "answer": "125 cm³", "exp": 15 },
+    { "lessonId": "mtk-6-02", "type": "PILIHAN_GANDA", "question": "Balok 8×5×3 cm. Volume?", "options": ["16 cm³", "40 cm³", "120 cm³", "130 cm³"], "answer": "120 cm³", "exp": 15 },
+    { "lessonId": "mtk-6-02", "type": "PILIHAN_GANDA", "question": "Kolam 4×2×1 m. Volume air maksimal?", "options": ["7 m³", "8 m³", "16 m³", "10 m³"], "answer": "8 m³", "exp": 15 },
+    { "lessonId": "mtk-6-02", "type": "PILIHAN_GANDA", "question": "Mana lebih besar: kubus s=6 cm atau balok 8×4×3 cm?", "options": ["Kubus", "Balok", "Sama", "Tidak tahu"], "answer": "Kubus", "exp": 15 },
+    { "lessonId": "mtk-6-02", "type": "PILIHAN_GANDA", "question": "Tabung r=7cm, t=10cm (π=22/7). Volume?", "options": ["1.540 cm³", "1.540 cm²", "1.540 cm", "1.540 dm³"], "answer": "1.540 cm³", "exp": 15 },
+
+    { "lessonId": "mtk-6-03", "type": "PILIHAN_GANDA", "question": "Persegi sisi 6 cm. Luas?", "options": ["12 cm²", "24 cm²", "36 cm²", "48 cm²"], "answer": "36 cm²", "exp": 15 },
+    { "lessonId": "mtk-6-03", "type": "PILIHAN_GANDA", "question": "Persegi panjang 8×5 cm. Keliling?", "options": ["13 cm", "26 cm", "40 cm", "45 cm"], "answer": "26 cm", "exp": 15 },
+    { "lessonId": "mtk-6-03", "type": "PILIHAN_GANDA", "question": "Segitiga alas 8 cm, tinggi 6 cm. Luas?", "options": ["14 cm²", "24 cm²", "48 cm²", "28 cm²"], "answer": "24 cm²", "exp": 15 },
+    { "lessonId": "mtk-6-03", "type": "PILIHAN_GANDA", "question": "Lingkaran r=7cm (π=22/7). Luas?", "options": ["44 cm²", "77 cm²", "154 cm²", "308 cm²"], "answer": "154 cm²", "exp": 15 },
+    { "lessonId": "mtk-6-03", "type": "PILIHAN_GANDA", "question": "Taman 20×15 m. Keliling (untuk pagar)?", "options": ["35 m", "70 m", "150 m", "300 m"], "answer": "70 m", "exp": 15 },
+
+    { "lessonId": "mtk-6-04", "type": "PILIHAN_GANDA", "question": "Nilai 7,8,6,9,10. Mean?", "options": ["7", "7,5", "8", "9"], "answer": "8", "exp": 15 },
+    { "lessonId": "mtk-6-04", "type": "PILIHAN_GANDA", "question": "Data 6,7,8,9,10. Median?", "options": ["7", "8", "8,5", "9"], "answer": "8", "exp": 15 },
+    { "lessonId": "mtk-6-04", "type": "PILIHAN_GANDA", "question": "Data 7,8,8,9,9,9,10. Modus?", "options": ["7", "8", "9", "10"], "answer": "9", "exp": 15 },
+    { "lessonId": "mtk-6-04", "type": "PILIHAN_GANDA", "question": "Nilai 80,85,90,75,70. Rata-rata?", "options": ["75", "78", "80", "82"], "answer": "80", "exp": 15 },
+    { "lessonId": "mtk-6-04", "type": "PILIHAN_GANDA", "question": "Data 6,7,8,9,10,11. Median?", "options": ["7", "8", "8,5", "9"], "answer": "8,5", "exp": 15 },
+
+    { "lessonId": "mtk-6-05", "type": "PILIHAN_GANDA", "question": "Peta skala 1:1.500.000, jarak peta 10 cm. Jarak nyata?", "options": ["15 km", "150 km", "1.500 km", "150.000 km"], "answer": "150 km", "exp": 15 },
+    { "lessonId": "mtk-6-05", "type": "PILIHAN_GANDA", "question": "4 pekerja selesai 12 hari. 6 pekerja, berapa hari?", "options": ["6", "8", "9", "10"], "answer": "8", "exp": 15 },
+    { "lessonId": "mtk-6-05", "type": "PILIHAN_GANDA", "question": "12 km/jam selama 20 menit. Jarak?", "options": ["2 km", "3 km", "4 km", "5 km"], "answer": "4 km", "exp": 15 },
+    { "lessonId": "mtk-6-05", "type": "PILIHAN_GANDA", "question": "Mobil A 60 km/jam, B 50 km/jam berlawanan, jarak 330 km. Berpapasan setelah?", "options": ["2 jam", "2,5 jam", "3 jam", "3,5 jam"], "answer": "3 jam", "exp": 15 },
+    { "lessonId": "mtk-6-05", "type": "PILIHAN_GANDA", "question": "40 siswa, suka matematika:tidak = 3:2. Berapa suka matematika?", "options": ["16", "20", "24", "30"], "answer": "24", "exp": 15 }
+  ]
+}

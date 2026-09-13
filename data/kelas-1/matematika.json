@@ -1,0 +1,73 @@
+{
+  "subject": {
+    "slug": "matematika",
+    "name": "Matematika",
+    "emoji": "🔢",
+    "color": "from-blue-400 to-blue-600",
+    "kelas": 1
+  },
+  "lessons": [
+    {
+      "id": "mtk-1-01",
+      "title": "Mengenal Angka 1-10",
+      "order": 1,
+      "expReward": 20,
+      "content": "## Ayo Mengenal Angka!\n\nAngka adalah simbol untuk menghitung. Kita mulai dari 1 sampai 10 ya!\n\n### Angka dan Jumlahnya\n\n| Angka | Gambar | Dibaca |\n|-------|--------|--------|\n| 1 | 🍎 | Satu |\n| 2 | 🍎🍎 | Dua |\n| 3 | 🍎🍎🍎 | Tiga |\n| 4 | 🍎🍎🍎🍎 | Empat |\n| 5 | 🍎🍎🍎🍎🍎 | Lima |\n| 6 | ⭐⭐⭐⭐⭐⭐ | Enam |\n| 7 | 🌟🌟🌟🌟🌟🌟🌟 | Tujuh |\n| 8 | 🐟🐟🐟🐟🐟🐟🐟🐟 | Delapan |\n| 9 | 🎈🎈🎈🎈🎈🎈🎈🎈🎈 | Sembilan |\n| 10 | 🍭🍭🍭🍭🍭🍭🍭🍭🍭🍭 | Sepuluh |\n\n### Tips Belajar\n\n- Hitung pakai jari tangan\n- Nyanyi lagu angka: Satu dua tiga...\n- Hitung benda di sekitar rumah\n\n### Contoh\n\nKalau ada 3 kucing 🐱🐱🐱, berarti jumlahnya 3 (tiga)!"
+    },
+    {
+      "id": "mtk-1-02",
+      "title": "Penjumlahan Sederhana (1-10)",
+      "order": 2,
+      "expReward": 20,
+      "content": "## Ayo Belajar Menjumlah!\n\nPenjumlahan artinya menggabungkan dua kelompok benda.\n\n### Rumus Sederhana\n\nA + B = C\n\n### Contoh Mudah\n\n🍎 + 🍎 = 🍎🍎\n1 + 1 = 2\n\n🍌🍌 + 🍌 = 🍌🍌🍌\n2 + 1 = 3\n\n🐱🐱 + 🐱🐱 = 🐱🐱🐱🐱\n2 + 2 = 4\n\n### Cara Menghitung\n\n1. Hitung benda pertama\n2. Lanjutkan hitung benda kedua\n3. Hasilnya adalah jumlah semua\n\n### Latihan Lisan\n\n- 1 + 2 = ?\n- 3 + 1 = ?\n- 2 + 3 = ?"
+    },
+    {
+      "id": "mtk-1-03",
+      "title": "Pengurangan Sederhana (1-10)",
+      "order": 3,
+      "expReward": 20,
+      "content": "## Ayo Belajar Mengurangi!\n\nPengurangan artinya mengambil sebagian dari suatu kelompok.\n\n### Rumus Sederhana\n\nA - B = C\n\n### Contoh Mudah\n\n🍎🍎🍎 - 🍎 = 🍎🍎\n3 - 1 = 2\n\n🍪🍪🍪🍪 - 🍪🍪 = 🍪🍪\n4 - 2 = 2\n\n⭐⭐⭐⭐⭐ - ⭐⭐⭐ = ⭐⭐\n5 - 3 = 2\n\n### Cara Menghitung\n\n1. Hitung jumlah semua\n2. Coret yang diambil\n3. Hitung sisanya\n\n### Latihan Lisan\n\n- 5 - 2 = ?\n- 4 - 1 = ?\n- 3 - 3 = ?"
+    },
+    {
+      "id": "mtk-1-04",
+      "title": "Mengenal Bentuk Geometri",
+      "order": 4,
+      "expReward": 20,
+      "content": "## Ayo Mengenal Bentuk!\n\nBentuk ada di sekitar kita. Yuk kenali!\n\n### Bentuk Dasar\n\n- ⭕ Lingkaran — seperti bola, roda\n- ⬛ Persegi — seperti rubik, buku\n- 🔺 Segitiga — seperti atap rumah\n- ▬ Persegi Panjang — seperti pintu, papan tulis\n\n### Contoh di Rumah\n\n- Jam dinding → lingkaran\n- Ubin lantai → persegi\n- Atap rumah → segitiga\n- Pintu → persegi panjang\n\n### Latihan\n\nSebutkan bentuk benda:\n- Bola = ?\n- Buku = ?\n- Topi ulang tahun = ?"
+    },
+    {
+      "id": "mtk-1-05",
+      "title": "Membandingkan Angka (Lebih Besar/Kecil)",
+      "order": 5,
+      "expReward": 20,
+      "content": "## Ayo Bandingkan Angka!\n\nKita bisa tahu angka mana yang lebih besar atau lebih kecil.\n\n### Simbol\n\n- **>** lebih besar dari\n- **<** lebih kecil dari\n- **=** sama dengan\n\n### Contoh\n\n5 > 3 (5 lebih besar dari 3)\n2 < 7 (2 lebih kecil dari 7)\n4 = 4 (4 sama dengan 4)\n\n### Cara Cepat\n\nSemakin ke kanan pada garis bilangan, semakin besar:\n\n1 — 2 — 3 — 4 — 5 — 6 — 7 — 8 — 9 — 10\n\n### Latihan\n\nMana yang lebih besar?\n- 6 atau 4?\n- 2 atau 8?\n- 9 atau 9?"
+    }
+  ],
+  "quizzes": [
+    { "lessonId": "mtk-1-01", "type": "PILIHAN_GANDA", "question": "Berapa jumlah apel ini? 🍎🍎🍎", "options": ["1","2","3","4"], "answer": "3", "exp": 10 },
+    { "lessonId": "mtk-1-01", "type": "PILIHAN_GANDA", "question": "Angka setelah 7 adalah...", "options": ["6","8","9","10"], "answer": "8", "exp": 10 },
+    { "lessonId": "mtk-1-01", "type": "PILIHAN_GANDA", "question": "Angka sebelum 4 adalah...", "options": ["2","3","5","6"], "answer": "3", "exp": 10 },
+    { "lessonId": "mtk-1-01", "type": "PILIHAN_GANDA", "question": "Mana yang lebih besar: 5 atau 3?", "options": ["3","5","Sama","Tidak tahu"], "answer": "5", "exp": 10 },
+    { "lessonId": "mtk-1-01", "type": "PILIHAN_GANDA", "question": "Berapa jumlah bintang? ⭐⭐⭐⭐⭐", "options": ["4","5","6","7"], "answer": "5", "exp": 10 },
+    { "lessonId": "mtk-1-02", "type": "PILIHAN_GANDA", "question": "1 + 2 = ?", "options": ["2","3","4","5"], "answer": "3", "exp": 10 },
+    { "lessonId": "mtk-1-02", "type": "PILIHAN_GANDA", "question": "3 + 2 = ?", "options": ["4","5","6","7"], "answer": "5", "exp": 10 },
+    { "lessonId": "mtk-1-02", "type": "PILIHAN_GANDA", "question": "4 + 1 = ?", "options": ["3","4","5","6"], "answer": "5", "exp": 10 },
+    { "lessonId": "mtk-1-02", "type": "PILIHAN_GANDA", "question": "2 + 2 = ?", "options": ["2","3","4","5"], "answer": "4", "exp": 10 },
+    { "lessonId": "mtk-1-02", "type": "PILIHAN_GANDA", "question": "1 + 1 = ?", "options": ["1","2","3","4"], "answer": "2", "exp": 10 },
+    { "lessonId": "mtk-1-03", "type": "PILIHAN_GANDA", "question": "5 - 2 = ?", "options": ["2","3","4","5"], "answer": "3", "exp": 10 },
+    { "lessonId": "mtk-1-03", "type": "PILIHAN_GANDA", "question": "4 - 1 = ?", "options": ["2","3","4","5"], "answer": "3", "exp": 10 },
+    { "lessonId": "mtk-1-03", "type": "PILIHAN_GANDA", "question": "6 - 3 = ?", "options": ["2","3","4","5"], "answer": "3", "exp": 10 },
+    { "lessonId": "mtk-1-03", "type": "PILIHAN_GANDA", "question": "3 - 3 = ?", "options": ["0","1","2","3"], "answer": "0", "exp": 10 },
+    { "lessonId": "mtk-1-03", "type": "PILIHAN_GANDA", "question": "7 - 2 = ?", "options": ["3","4","5","6"], "answer": "5", "exp": 10 },
+    { "lessonId": "mtk-1-04", "type": "PILIHAN_GANDA", "question": "Bola berbentuk...", "options": ["Persegi","Lingkaran","Segitiga","Persegi panjang"], "answer": "Lingkaran", "exp": 10 },
+    { "lessonId": "mtk-1-04", "type": "PILIHAN_GANDA", "question": "Atap rumah berbentuk...", "options": ["Lingkaran","Persegi","Segitiga","Persegi panjang"], "answer": "Segitiga", "exp": 10 },
+    { "lessonId": "mtk-1-04", "type": "PILIHAN_GANDA", "question": "Pintu berbentuk...", "options": ["Lingkaran","Persegi","Segitiga","Persegi panjang"], "answer": "Persegi panjang", "exp": 10 },
+    { "lessonId": "mtk-1-04", "type": "PILIHAN_GANDA", "question": "Ubin lantai berbentuk...", "options": ["Lingkaran","Persegi","Segitiga","Oval"], "answer": "Persegi", "exp": 10 },
+    { "lessonId": "mtk-1-04", "type": "PILIHAN_GANDA", "question": "Jam dinding berbentuk...", "options": ["Lingkaran","Persegi","Segitiga","Persegi panjang"], "answer": "Lingkaran", "exp": 10 },
+    { "lessonId": "mtk-1-05", "type": "PILIHAN_GANDA", "question": "Mana yang lebih besar: 6 atau 4?", "options": ["4","6","Sama","Tidak tahu"], "answer": "6", "exp": 10 },
+    { "lessonId": "mtk-1-05", "type": "PILIHAN_GANDA", "question": "Mana yang lebih kecil: 2 atau 8?", "options": ["2","8","Sama","Tidak tahu"], "answer": "2", "exp": 10 },
+    { "lessonId": "mtk-1-05", "type": "PILIHAN_GANDA", "question": "5 ... 5", "options": ["<",">","=","+"], "answer": "=", "exp": 10 },
+    { "lessonId": "mtk-1-05", "type": "PILIHAN_GANDA", "question": "7 ... 3", "options": ["<",">","=","-"], "answer": ">", "exp": 10 },
+    { "lessonId": "mtk-1-05", "type": "PILIHAN_GANDA", "question": "1 ... 9", "options": ["<",">","=","+"], "answer": "<", "exp": 10 }
+  ]
+}

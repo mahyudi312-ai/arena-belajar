@@ -1,0 +1,77 @@
+{
+  "subject": {
+    "slug": "matematika",
+    "name": "Matematika",
+    "emoji": "🔢",
+    "color": "from-blue-400 to-blue-600",
+    "kelas": 4
+  },
+  "lessons": [
+    {
+      "id": "mtk-4-01",
+      "title": "Bilangan sampai 99.999",
+      "order": 1,
+      "expReward": 35,
+      "content": "## Bilangan sampai 99.999\n\nSekarang kita belajar angka 5 digit!\n\n### Nilai Tempat\n\nSetiap posisi punya nilai 10x dari posisi kanannya:\n\n| Posisi | Nama | Nilai |\n|--------|------|-------|\n| 1 (paling kanan) | Satuan | 1 |\n| 2 | Puluhan | 10 |\n| 3 | Ratusan | 100 |\n| 4 | Ribuan | 1.000 |\n| 5 | Puluhan Ribu | 10.000 |\n\n### Contoh\n\n**34.567** dibaca:\n- 3 puluhan ribu = 30.000\n- 4 ribuan = 4.000\n- 5 ratusan = 500\n- 6 puluhan = 60\n- 7 satuan = 7\n- Total = **34.567**\n\n### Membandingkan Bilangan\n\n**Aturan:**\n1. Bandingkan jumlah digit dulu\n2. Kalau sama, bandingkan dari kiri\n\n**Contoh:**\n- 9.999 < 10.000 (4 digit < 5 digit)\n- 45.678 > 45.679? Tidak! 45.678 < 45.679\n\n### Soal Cerita\n\n**Soal:** Penduduk Desa Sukamaju 12.450 orang. Desa Mekarsari 12.540 orang. Desa mana yang lebih banyak?\n\n**Jawab:**\n- 12.450 vs 12.540\n- Digit ke-4 berbeda: 4 vs 5\n- 12.450 < 12.540\n- **Mekarsari lebih banyak**\n\n### Berpikir Kritis\n\n**Soal:** Aku 5 digit. Angka paling kiri 2, paling kanan 7. Angka tengah-tengah semua 0. Siapa aku?\n\n**Jawab:** 20.007"
+    },
+    {
+      "id": "mtk-4-02",
+      "title": "Operasi Hitung Campuran",
+      "order": 2,
+      "expReward": 35,
+      "content": "## Operasi Hitung Campuran\n\nUrutan operasi + soal cerita!\n\n### Aturan Urutan Operasi\n\n1. **Kurung ( )**\n2. **Kali (×) & Bagi (÷)** — dari kiri ke kanan\n3. **Tambah (+) & Kurang (-)** — dari kiri ke kanan\n\n### Contoh 1\n\n**12 + 8 × 3 = ?**\n- 8 × 3 = 24\n- 12 + 24 = **36**\n\n### Contoh 2\n\n**50 - (12 + 8) × 2 = ?**\n- Kurung: 12 + 8 = 20\n- Kali: 20 × 2 = 40\n- Kurang: 50 - 40 = **10**\n\n### Contoh 3 (Bagi & Kali)\n\n**36 ÷ 4 × 3 = ?**\n- Bagi dulu: 36 ÷ 4 = 9\n- Kali: 9 × 3 = **27**\n\n### Soal Cerita\n\n**Soal:** Ayah beli 3 kotak kue. Tiap kotak isi 12 kue. 5 kue diberikan ke tetangga. Sisa kue?\n\n**Jawab:**\n- Total = 3 × 12 = 36\n- Sisa = 36 - 5 = **31 kue**\n\n### Berpikir Kritis\n\n**Soal:** Mana hasil yang lebih besar?\n- A: 20 + 5 × 4\n- B: (20 + 5) × 4\n\n**Jawab:**\n- A: 20 + 20 = **40**\n- B: 25 × 4 = **100**\n- **B lebih besar**\n\n### Soal Literasi Numerasi\n\n**Soal:** Rina punya uang Rp50.000. Beli 3 buku @Rp8.000 dan 2 pensil @Rp3.000. Sisa uang?\n\n**Jawab:**\n- Buku: 3 × 8.000 = 24.000\n- Pensil: 2 × 3.000 = 6.000\n- Total belanja: 30.000\n- Sisa: 50.000 - 30.000 = **Rp20.000**"
+    },
+    {
+      "id": "mtk-4-03",
+      "title": "KPK & FPB",
+      "order": 3,
+      "expReward": 40,
+      "content": "## KPK & FPB\n\nMencari pola & hubungan bilangan!\n\n### Faktor & Faktor Persekutuan\n\n**Faktor dari 12:** 1, 2, 3, 4, 6, 12\n**Faktor dari 18:** 1, 2, 3, 6, 9, 18\n\n**Faktor Persekutuan:** 1, 2, 3, 6\n**FPB (Faktor Persekutuan Terbesar):** 6\n\n### Kelipatan & Kelipatan Persekutuan\n\n**Kelipatan 4:** 4, 8, 12, 16, 20, 24, 28, 32, 36, ...\n**Kelipatan 6:** 6, 12, 18, 24, 30, 36, 42, ...\n\n**Kelipatan Persekutuan:** 12, 24, 36, ...\n**KPK (Kelipatan Persekutuan Terkecil):** 12\n\n### Soal Cerita KPK\n\n**Soal:** Ani berenang setiap 4 hari. Budi setiap 6 hari. Kalau hari ini mereka berenang bersama, berapa hari lagi mereka akan bersama lagi?\n\n**Jawab:** Cari KPK(4, 6) = **12 hari lagi**\n\n### Soal Cerita FPB\n\n**Soal:** Ibu punya 24 kue dan 36 permen. Akan dibagi rata ke beberapa anak. Berapa anak maksimal?\n\n**Jawab:** Cari FPB(24, 36) = **12 anak**\n\n- Tiap anak dapat: 2 kue + 3 permen\n\n### Berpikir Kritis\n\n**Kapan pakai KPK, kapan pakai FPB?**\n- **KPK** → kejadian **berulang bersamaan** (bel, jadwal, berenang)\n- **FPB** → **membagi rata** (bagi kue, permen, kelompok)"
+    },
+    {
+      "id": "mtk-4-04",
+      "title": "Pecahan Senilai & Operasi",
+      "order": 4,
+      "expReward": 35,
+      "content": "## Pecahan Senilai & Operasi\n\nPecahan dalam kehidupan sehari-hari!\n\n### Pecahan Senilai\n\nPecahan yang nilainya sama:\n- ½ = 2/4 = 3/6 = 4/8 = 5/10\n- ⅓ = 2/6 = 3/9\n- ¼ = 2/8 = 3/12\n\n**Cara cari:** kali/bagi pembilang & penyebut dengan angka yang sama.\n\n### Membandingkan Pecahan\n\n**Penyebut sama:** pembilang lebih besar = lebih besar\n- ⅗ > ⅖ (5 > 2)\n\n**Penyebut beda:** samakan penyebut dulu\n- ½ vs ⅓ → 3/6 vs 2/6 → **½ lebih besar**\n\n### Penjumlahan (penyebut sama)\n\n- ⅖ + ⅕ = ⅗\n- 3/8 + 2/8 = 5/8\n\n### Pengurangan (penyebut sama)\n\n- ⅘ - ⅖ = ⅖\n- 5/6 - 2/6 = 3/6 = ½\n\n### Soal Cerita\n\n**Soal:** Ibu beli 1 kg gula. ¼ dipakai bikin kue, ¼ untuk teh. Berapa gula yang tersisa?\n\n**Jawab:**\n- Terpakai: ¼ + ¼ = 2/4 = ½\n- Sisa: 1 - ½ = **½ kg**\n\n### Berpikir Kritis\n\n**Soal:** Adik makan ⅖ pizza. Kakak makan ⅗ pizza. Siapa yang makan lebih banyak?\n\n**Jawab:** Kakak (⅗ > ⅖)\n\n**Soal:** Kalau pizza yang sama, dan digabung, berapa total yang mereka makan?\n\n**Jawab:** ⅖ + ⅗ = 5/5 = **1 pizza habis**"
+    },
+    {
+      "id": "mtk-4-05",
+      "title": "Pengukuran Panjang, Berat, Waktu",
+      "order": 5,
+      "expReward": 35,
+      "content": "## Pengukuran & Konversi\n\nNumerasi dalam kehidupan nyata!\n\n### Panjang\n\n| Satuan | Konversi |\n|--------|----------|\n| 1 km | 1.000 m |\n| 1 m | 100 cm |\n| 1 m | 1.000 mm |\n| 1 cm | 10 mm |\n\n### Berat\n\n| Satuan | Konversi |\n|--------|----------|\n| 1 ton | 1.000 kg |\n| 1 kuintal | 100 kg |\n| 1 kg | 1.000 gram |\n| 1 ons | 100 gram |\n\n### Waktu\n\n| Satuan | Konversi |\n|--------|----------|\n| 1 jam | 60 menit |\n| 1 menit | 60 detik |\n| 1 hari | 24 jam |\n\n### Soal Cerita Panjang\n\n**Soal:** Rumah Ani ke sekolah 2 km 500 m. Berapa meter?\n\n**Jawab:** 2 km = 2.000 m. Total = 2.000 + 500 = **2.500 m**\n\n### Soal Cerita Berat\n\n**Soal:** Truk angkut 3 ton beras. Berapa kg?\n\n**Jawab:** 3 × 1.000 = **3.000 kg**\n\n### Soal Cerita Waktu\n\n**Soal:** Film mulai jam 14.30, durasi 1 jam 45 menit. Selesai jam?\n\n**Jawab:**\n- 14.30 + 1 jam = 15.30\n- 15.30 + 45 menit = **16.15**\n\n### Berpikir Kritis\n\n**Soal:** Mana yang lebih panjang: 1.500 m atau 1,5 km?\n\n**Jawab:** **Sama** (1,5 km = 1.500 m)\n\n**Soal:** Mana yang lebih berat: 2 kg atau 1.500 gram?\n\n**Jawab:** **2 kg** (2.000 gram > 1.500 gram)"
+    }
+  ],
+  "quizzes": [
+    { "lessonId": "mtk-4-01", "type": "PILIHAN_GANDA", "question": "Angka 4 pada 34.567 menempati tempat...", "options": ["Puluhan ribu", "Ribuan", "Ratusan", "Puluhan"], "answer": "Ribuan", "exp": 15 },
+    { "lessonId": "mtk-4-01", "type": "PILIHAN_GANDA", "question": "Penduduk Desa A 12.450, Desa B 12.540. Desa mana lebih banyak?", "options": ["Desa A", "Desa B", "Sama", "Tidak tahu"], "answer": "Desa B", "exp": 15 },
+    { "lessonId": "mtk-4-01", "type": "PILIHAN_GANDA", "question": "Mana yang lebih besar: 45.678 atau 45.687?", "options": ["45.678", "45.687", "Sama", "Tidak tahu"], "answer": "45.687", "exp": 15 },
+    { "lessonId": "mtk-4-01", "type": "PILIHAN_GANDA", "question": "Aku 5 digit. Kiri 3, kanan 5, tengah semua 0. Siapa aku?", "options": ["30.005", "30.500", "35.000", "3.005"], "answer": "30.005", "exp": 15 },
+    { "lessonId": "mtk-4-01", "type": "PILIHAN_GANDA", "question": "Urutan dari terkecil: 21.345, 21.435, 21.354", "options": ["21.345, 21.354, 21.435", "21.435, 21.354, 21.345", "21.354, 21.345, 21.435", "21.345, 21.435, 21.354"], "answer": "21.345, 21.354, 21.435", "exp": 15 },
+
+    { "lessonId": "mtk-4-02", "type": "PILIHAN_GANDA", "question": "12 + 8 × 3 = ?", "options": ["36", "60", "28", "24"], "answer": "36", "exp": 15 },
+    { "lessonId": "mtk-4-02", "type": "PILIHAN_GANDA", "question": "Mana hasil yang lebih besar?", "options": ["20 + 5 × 4", "(20 + 5) × 4", "Sama", "Tidak bisa ditentukan"], "answer": "(20 + 5) × 4", "exp": 15 },
+    { "lessonId": "mtk-4-02", "type": "PILIHAN_GANDA", "question": "Rina punya Rp50.000. Beli 3 buku @Rp8.000 dan 2 pensil @Rp3.000. Sisa uang?", "options": ["Rp10.000", "Rp20.000", "Rp24.000", "Rp30.000"], "answer": "Rp20.000", "exp": 15 },
+    { "lessonId": "mtk-4-02", "type": "PILIHAN_GANDA", "question": "Ayah beli 3 kotak kue, tiap kotak 12 kue. 5 kue diberikan. Sisa?", "options": ["31", "36", "41", "26"], "answer": "31", "exp": 15 },
+    { "lessonId": "mtk-4-02", "type": "PILIHAN_GANDA", "question": "50 - (12 + 8) × 2 = ?", "options": ["10", "60", "20", "30"], "answer": "10", "exp": 15 },
+
+    { "lessonId": "mtk-4-03", "type": "PILIHAN_GANDA", "question": "FPB dari 12 dan 18 adalah...", "options": ["2", "3", "6", "9"], "answer": "6", "exp": 15 },
+    { "lessonId": "mtk-4-03", "type": "PILIHAN_GANDA", "question": "KPK dari 4 dan 6 adalah...", "options": ["10", "12", "18", "24"], "answer": "12", "exp": 15 },
+    { "lessonId": "mtk-4-03", "type": "PILIHAN_GANDA", "question": "Ani berenang setiap 4 hari, Budi setiap 6 hari. Berapa hari lagi mereka bersama?", "options": ["10", "12", "18", "24"], "answer": "12", "exp": 15 },
+    { "lessonId": "mtk-4-03", "type": "PILIHAN_GANDA", "question": "Ibu punya 24 kue dan 36 permen. Akan dibagi rata ke anak. Berapa anak maksimal?", "options": ["6", "8", "12", "18"], "answer": "12", "exp": 15 },
+    { "lessonId": "mtk-4-03", "type": "PILIHAN_GANDA", "question": "Untuk soal 'bel berbunyi bersamaan', kita pakai...", "options": ["KPK", "FPB", "Kali", "Bagi"], "answer": "KPK", "exp": 15 },
+
+    { "lessonId": "mtk-4-04", "type": "PILIHAN_GANDA", "question": "Mana pecahan senilai dengan ½?", "options": ["⅓", "2/4", "⅔", "¼"], "answer": "2/4", "exp": 15 },
+    { "lessonId": "mtk-4-04", "type": "PILIHAN_GANDA", "question": "Adik makan ⅖ pizza, Kakak ⅗ pizza. Siapa yang lebih banyak?", "options": ["Adik", "Kakak", "Sama", "Tidak tahu"], "answer": "Kakak", "exp": 15 },
+    { "lessonId": "mtk-4-04", "type": "PILIHAN_GANDA", "question": "⅖ + ⅗ = ?", "options": ["5/5", "6/10", "2/8", "3/5"], "answer": "5/5", "exp": 15 },
+    { "lessonId": "mtk-4-04", "type": "PILIHAN_GANDA", "question": "Ibu beli 1 kg gula. ¼ untuk kue, ¼ untuk teh. Sisa gula?", "options": ["¼", "½", "¾", "Habis"], "answer": "½", "exp": 15 },
+    { "lessonId": "mtk-4-04", "type": "PILIHAN_GANDA", "question": "Mana yang lebih besar: ⅗ atau ⅖?", "options": ["⅗", "⅖", "Sama", "Tidak bisa dibandingkan"], "answer": "⅗", "exp": 15 },
+
+    { "lessonId": "mtk-4-05", "type": "PILIHAN_GANDA", "question": "Rumah Ani ke sekolah 2 km 500 m. Berapa meter?", "options": ["250", "700", "2.500", "2.050"], "answer": "2.500", "exp": 15 },
+    { "lessonId": "mtk-4-05", "type": "PILIHAN_GANDA", "question": "Truk angkut 3 ton beras. Berapa kg?", "options": ["30", "300", "3.000", "30.000"], "answer": "3.000", "exp": 15 },
+    { "lessonId": "mtk-4-05", "type": "PILIHAN_GANDA", "question": "Film mulai jam 14.30, durasi 1 jam 45 menit. Selesai jam...", "options": ["15.75", "16.15", "16.45", "15.45"], "answer": "16.15", "exp": 15 },
+    { "lessonId": "mtk-4-05", "type": "PILIHAN_GANDA", "question": "Mana yang lebih panjang: 1.500 m atau 1,5 km?", "options": ["1.500 m", "1,5 km", "Sama", "Tidak bisa dibandingkan"], "answer": "Sama", "exp": 15 },
+    { "lessonId": "mtk-4-05", "type": "PILIHAN_GANDA", "question": "Mana yang lebih berat: 2 kg atau 1.500 gram?", "options": ["2 kg", "1.500 gram", "Sama", "Tidak tahu"], "answer": "2 kg", "exp": 15 }
+  ]
+}

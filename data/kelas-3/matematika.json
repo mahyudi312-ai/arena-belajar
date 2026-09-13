@@ -1,0 +1,77 @@
+{
+  "subject": {
+    "slug": "matematika",
+    "name": "Matematika",
+    "emoji": "🔢",
+    "color": "from-blue-400 to-blue-600",
+    "kelas": 3
+  },
+  "lessons": [
+    {
+      "id": "mtk-3-01",
+      "title": "Bilangan sampai 9.999",
+      "order": 1,
+      "expReward": 30,
+      "content": "## Bilangan sampai 9.999\n\nSekarang kita belajar angka 4 digit dan berpikir kritis!\n\n### Ribuan, Ratusan, Puluhan, Satuan\n\nAngka 4 digit terdiri dari:\n- **Ribuan** (paling kiri)\n- **Ratusan**\n- **Puluhan**\n- **Satuan** (paling kanan)\n\n### Contoh\n\n**2.345** dibaca:\n- 2 ribuan = 2.000\n- 3 ratusan = 300\n- 4 puluhan = 40\n- 5 satuan = 5\n- Total = 2.000 + 300 + 40 + 5 = **2.345**\n\n### Nilai Tempat\n\nAngka yang sama bisa punya nilai berbeda tergantung posisinya:\n- **7** di 2.7**5**3 = 700 (ratusan)\n- **7** di 2.7**5**3 = 70 (puluhan) - jika di posisi puluhan\n- **7** di 27.53**7** = 7 (satuan) - jika di posisi satuan\n\n### Berpikir Kritis\n\nKalau angka 5 ada di posisi ratusan, nilainya **500**.\nKalau angka 5 ada di posisi ribuan, nilainya **5.000**.\n\n**Pertanyaan:** Kalau angka 5 ada di posisi puluhan, berapa nilainya?\n\n### Latihan\n\n- Berapa nilai angka 7 di 2.753?\n- Berapa nilai angka 4 di 4.128?\n- Tulis 5.903 dalam ribuan + ratusan + puluhan + satuan!"
+    },
+    {
+      "id": "mtk-3-02",
+      "title": "Operasi Hitung Campuran",
+      "order": 2,
+      "expReward": 30,
+      "content": "## Operasi Hitung Campuran\n\nBerpikir kritis tentang urutan operasi!\n\n### Aturan Urutan\n\n1. **Kurung ( )** — paling dulu\n2. **Kali (×) & Bagi (÷)** — berikutnya\n3. **Tambah (+) & Kurang (-)** — terakhir\n\n### Contoh 1\n\n**5 + 3 × 4 = ?**\n\nYang benar:\n- 3 × 4 = 12 (kali dulu)\n- 5 + 12 = 17\n- Hasil: **17**\n\nYang salah:\n- 5 + 3 = 8\n- 8 × 4 = 32\n\n### Contoh 2\n\n**(5 + 3) × 4 = ?**\n\n- 5 + 3 = 8 (kurung dulu)\n- 8 × 4 = 32\n- Hasil: **32**\n\n### Contoh 3\n\n**20 - 12 ÷ 3 = ?**\n\n- 12 ÷ 3 = 4\n- 20 - 4 = 16\n- Hasil: **16**\n\n### Berpikir Kritis\n\nPerhatikan:\n- 5 + 3 × 4 = **17**\n- (5 + 3) × 4 = **32**\n\n**Kesimpulan:** Kurung bisa mengubah hasil!\n\n### Latihan\n\n- 4 + 2 × 5 = ?\n- (4 + 2) × 5 = ?\n- 20 - 4 × 3 = ?\n- 30 ÷ 5 + 3 = ?"
+    },
+    {
+      "id": "mtk-3-03",
+      "title": "Faktor & Kelipatan",
+      "order": 3,
+      "expReward": 35,
+      "content": "## Faktor & Kelipatan\n\nMencari pola dan hubungan bilangan!\n\n### Faktor\n\nFaktor adalah bilangan yang bisa membagi habis suatu bilangan.\n\n**Faktor dari 12:**\n1, 2, 3, 4, 6, 12\n\nKarena:\n- 12 ÷ 1 = 12 ✓\n- 12 ÷ 2 = 6 ✓\n- 12 ÷ 3 = 4 ✓\n- 12 ÷ 4 = 3 ✓\n- 12 ÷ 6 = 2 ✓\n- 12 ÷ 12 = 1 ✓\n\n### Kelipatan\n\nKelipatan adalah hasil kali bilangan dengan 1, 2, 3, ...\n\n**Kelipatan 3:**\n3, 6, 9, 12, 15, 18, 21, 24, ...\n\n**Kelipatan 4:**\n4, 8, 12, 16, 20, 24, 28, ...\n\n### Kelipatan Persekutuan\n\nKelipatan yang sama dari dua bilangan:\n\n**Kelipatan 3 dan 4 yang sama:**\n- Kelipatan 3: 3, 6, 9, 12, 15, 18, 21, **24**, ...\n- Kelipatan 4: 4, 8, **12**, 16, 20, **24**, ...\n- Yang sama: 12, 24, ...\n- Yang terkecil: **12** (KPK)\n\n### Berpikir Kritis\n\n**Pertanyaan:** Berapa faktor dari 16?\n\nCoba cari: 1, 2, 4, 8, 16 → ada **5 faktor**\n\n**Pertanyaan:** Berapa kelipatan 5 yang kurang dari 30?\n\n5, 10, 15, 20, 25 → ada **5**\n\n### Latihan\n\n- Faktor dari 20?\n- Kelipatan 3 yang kurang dari 20?\n- KPK dari 2 dan 3?\n- KPK dari 4 dan 6?"
+    },
+    {
+      "id": "mtk-3-04",
+      "title": "Pecahan Sederhana",
+      "order": 4,
+      "expReward": 30,
+      "content": "## Pecahan Sederhana\n\nMembagi sesuatu menjadi bagian sama besar!\n\n### Konsep Pecahan\n\nPecahan = bagian dari keseluruhan.\n\n**½ (setengah)** — dibagi 2 bagian sama besar\n🍕 → 🍕½ + 🍕½\n\n**¼ (seperempat)** — dibagi 4 bagian sama besar\n🍕 → 4 potong sama\n\n**⅓ (sepertiga)** — dibagi 3 bagian sama besar\n🍕 → 3 potong sama\n\n### Membandingkan Pecahan\n\nMana yang lebih besar: ½ atau ¼?\n\nBayangkan pizza:\n- ½ = potongan besar (setengah pizza)\n- ¼ = potongan kecil (seperempat pizza)\n\n**Kesimpulan:** ½ **>** ¼ (setengah lebih besar)\n\nSemakin besar **penyebut** (angka bawah), semakin **kecil** potongannya!\n\n### Penjumlahan Pecahan (penyebut sama)\n\n**⅕ + ⅖ = ⅗** (penyebut sama, tinggal jumlahkan pembilang)\n\n**¼ + ¼ = 2/4 = ½**\n\n### Contoh Nyata\n\nIbu punya kue. Diberikan:\n- ¼ ke Adik\n- ¼ ke Kakak\n\n**Berapa yang sudah diberikan?** ¼ + ¼ = 2/4 = ½ kue\n\n### Berpikir Kritis\n\nKalau kamu punya 1 kue dan dibagi ke 4 teman sama rata, berapa bagian tiap teman? **¼**\n\nKalau salah satu teman tidak mau, dan dibagi ke 3 teman saja? **⅓** (lebih besar!)\n\n### Latihan\n\n- Mana yang lebih besar: ⅓ atau ¼?\n- ⅕ + ⅖ = ?\n- ⅛ + ⅜ = ?\n- Mana yang lebih besar: ½ atau ⅓?"
+    },
+    {
+      "id": "mtk-3-05",
+      "title": "Pengukuran Berat & Waktu",
+      "order": 5,
+      "expReward": 30,
+      "content": "## Pengukuran Berat & Waktu\n\nNumerasi dalam kehidupan sehari-hari!\n\n### Satuan Berat\n\n- **gram (g)** — sangat ringan (kertas, koin)\n- **ons** — 1 ons = 100 gram\n- **kilogram (kg)** — sedang (buku, tas)\n- **ton** — sangat berat (mobil, truk)\n\n### Hubungan Satuan\n\n- 1 kg = 10 ons = 1.000 gram\n- 1 ons = 100 gram\n- 1 ton = 1.000 kg\n\n### Contoh Benda\n\n- 📄 Kertas: 5 gram\n- 🍫 Coklat: 100 gram\n- 🍚 Beras 1 kantong: 5 kg\n- 🚗 Mobil: 1 ton\n\n### Satuan Waktu\n\n- 1 menit = 60 detik\n- 1 jam = 60 menit = 3.600 detik\n- 1 hari = 24 jam\n\n### Contoh Soal Cerita\n\n**Soal:** Ibu beli 2 kg gula dan 5 ons tepung. Berapa gram total belanjaan?\n\n**Jawab:**\n- 2 kg = 2.000 gram\n- 5 ons = 500 gram\n- Total = 2.000 + 500 = **2.500 gram**\n\n### Berpikir Kritis\n\n**Soal:** Rina mulai belajar jam 7.30, selesai jam 9.00. Berapa menit Rina belajar?\n\n**Jawab:**\n- 7.30 → 8.00 = 30 menit\n- 8.00 → 9.00 = 60 menit\n- Total = **90 menit** (1,5 jam)\n\n### Latihan\n\n- 3 kg = ... gram?\n- 500 gram = ... ons?\n- 2 jam = ... menit?\n- 1,5 jam = ... menit?"
+    }
+  ],
+  "quizzes": [
+    { "lessonId": "mtk-3-01", "type": "PILIHAN_GANDA", "question": "Andi menulis angka 3.456. Angka 5 menempati tempat...", "options": ["Ribuan", "Ratusan", "Puluhan", "Satuan"], "answer": "Puluhan", "exp": 15 },
+    { "lessonId": "mtk-3-01", "type": "PILIHAN_GANDA", "question": "Nilai angka 7 pada 2.753 adalah...", "options": ["7", "70", "700", "7.000"], "answer": "700", "exp": 15 },
+    { "lessonId": "mtk-3-01", "type": "PILIHAN_GANDA", "question": "Bilangan yang lebih besar dari 4.999 adalah...", "options": ["4.899", "4.989", "4.998", "5.001"], "answer": "5.001", "exp": 15 },
+    { "lessonId": "mtk-3-01", "type": "PILIHAN_GANDA", "question": "Angka 5 di posisi ribuan bernilai...", "options": ["5", "50", "500", "5.000"], "answer": "5.000", "exp": 15 },
+    { "lessonId": "mtk-3-01", "type": "PILIHAN_GANDA", "question": "Urutan dari yang terkecil: 3.201, 3.210, 3.102", "options": ["3.102, 3.201, 3.210", "3.210, 3.201, 3.102", "3.201, 3.102, 3.210", "3.102, 3.210, 3.201"], "answer": "3.102, 3.201, 3.210", "exp": 15 },
+
+    { "lessonId": "mtk-3-02", "type": "PILIHAN_GANDA", "question": "5 + 3 × 4 = ?", "options": ["17", "27", "32", "12"], "answer": "17", "exp": 15 },
+    { "lessonId": "mtk-3-02", "type": "PILIHAN_GANDA", "question": "(5 + 3) × 4 = ?", "options": ["17", "27", "32", "12"], "answer": "32", "exp": 15 },
+    { "lessonId": "mtk-3-02", "type": "PILIHAN_GANDA", "question": "Ibu punya 20 kue. Diberikan 12 ÷ 3 ke Adik. Sisa kue Ibu?", "options": ["4", "6", "16", "18"], "answer": "16", "exp": 15 },
+    { "lessonId": "mtk-3-02", "type": "PILIHAN_GANDA", "question": "Mana hasil terbesar: 2+3×4, (2+3)×4, atau 2×3+4?", "options": ["2+3×4", "(2+3)×4", "2×3+4", "Sama semua"], "answer": "(2+3)×4", "exp": 15 },
+    { "lessonId": "mtk-3-02", "type": "PILIHAN_GANDA", "question": "20 - 4 × 3 = ?", "options": ["8", "12", "48", "58"], "answer": "8", "exp": 15 },
+
+    { "lessonId": "mtk-3-03", "type": "PILIHAN_GANDA", "question": "Berapa banyak faktor dari 16?", "options": ["3", "4", "5", "6"], "answer": "5", "exp": 15 },
+    { "lessonId": "mtk-3-03", "type": "PILIHAN_GANDA", "question": "Kelipatan 3 yang kurang dari 15 adalah...", "options": ["3,6,9,12", "3,6,9,12,15", "3,6,9", "6,9,12"], "answer": "3,6,9,12", "exp": 15 },
+    { "lessonId": "mtk-3-03", "type": "PILIHAN_GANDA", "question": "KPK dari 4 dan 6 adalah...", "options": ["10", "12", "18", "24"], "answer": "12", "exp": 15 },
+    { "lessonId": "mtk-3-03", "type": "PILIHAN_GANDA", "question": "Faktor persekutuan dari 12 dan 18 adalah...", "options": ["1,2,3,6", "1,2,4,6", "1,3,6,9", "1,2,3,4"], "answer": "1,2,3,6", "exp": 15 },
+    { "lessonId": "mtk-3-03", "type": "PILIHAN_GANDA", "question": "Rina les setiap 3 hari, Budi setiap 4 hari. Mereka les bersama setiap ... hari", "options": ["7", "12", "15", "24"], "answer": "12", "exp": 15 },
+
+    { "lessonId": "mtk-3-04", "type": "PILIHAN_GANDA", "question": "Mana yang lebih besar: ½ atau ⅓?", "options": ["½", "⅓", "Sama", "Tidak bisa dibandingkan"], "answer": "½", "exp": 15 },
+    { "lessonId": "mtk-3-04", "type": "PILIHAN_GANDA", "question": "⅕ + ⅖ = ?", "options": ["⅗", "3/10", "2/7", "⅕"], "answer": "⅗", "exp": 15 },
+    { "lessonId": "mtk-3-04", "type": "PILIHAN_GANDA", "question": "Pizza dibagi 4 sama besar. Kalau kamu makan 2 potong, kamu makan ... bagian", "options": ["¼", "½", "¾", "⅓"], "answer": "½", "exp": 15 },
+    { "lessonId": "mtk-3-04", "type": "PILIHAN_GANDA", "question": "Mana yang lebih kecil: ⅙ atau ¼?", "options": ["⅙", "¼", "Sama", "Tidak tahu"], "answer": "⅙", "exp": 15 },
+    { "lessonId": "mtk-3-04", "type": "PILIHAN_GANDA", "question": "Ibu memberi ¼ kue ke Adik dan ¼ ke Kakak. Sisa kue ibu?", "options": ["¼", "½", "¾", "Habis"], "answer": "½", "exp": 15 },
+
+    { "lessonId": "mtk-3-05", "type": "PILIHAN_GANDA", "question": "Ibu beli 2 kg gula dan 5 ons tepung. Total belanjaan ... gram", "options": ["250", "700", "2.500", "7.000"], "answer": "2.500", "exp": 15 },
+    { "lessonId": "mtk-3-05", "type": "PILIHAN_GANDA", "question": "Rina belajar jam 7.30 sampai 9.00. Berapa menit?", "options": ["60", "75", "90", "120"], "answer": "90", "exp": 15 },
+    { "lessonId": "mtk-3-05", "type": "PILIHAN_GANDA", "question": "3 kg = ... gram", "options": ["30", "300", "3.000", "30.000"], "answer": "3.000", "exp": 15 },
+    { "lessonId": "mtk-3-05", "type": "PILIHAN_GANDA", "question": "Budi berangkat sekolah jam 6.45, sampai jam 7.15. Berapa menit perjalanan?", "options": ["15", "20", "30", "45"], "answer": "30", "exp": 15 },
+    { "lessonId": "mtk-3-05", "type": "PILIHAN_GANDA", "question": "Mana yang lebih berat: 2 kg atau 1.500 gram?", "options": ["2 kg", "1.500 gram", "Sama", "Tidak tahu"], "answer": "2 kg", "exp": 15 }
+  ]
+}

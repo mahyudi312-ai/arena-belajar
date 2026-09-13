@@ -1,0 +1,77 @@
+{
+  "subject": {
+    "slug": "matematika",
+    "name": "Matematika",
+    "emoji": "🔢",
+    "color": "from-blue-400 to-blue-600",
+    "kelas": 5
+  },
+  "lessons": [
+    {
+      "id": "mtk-5-01",
+      "title": "Bilangan sampai 999.999",
+      "order": 1,
+      "expReward": 40,
+      "content": "## Bilangan sampai 999.999\n\nSekarang kita belajar angka 6 digit!\n\n### Nilai Tempat\n\n| Posisi | Nama | Nilai |\n|--------|------|-------|\n| 1 | Satuan | 1 |\n| 2 | Puluhan | 10 |\n| 3 | Ratusan | 100 |\n| 4 | Ribuan | 1.000 |\n| 5 | Puluhan Ribu | 10.000 |\n| 6 | Ratus Ribu | 100.000 |\n\n### Contoh\n\n**345.678** dibaca:\n- 3 ratus ribu = 300.000\n- 4 puluhan ribu = 40.000\n- 5 ribuan = 5.000\n- 6 ratusan = 600\n- 7 puluhan = 70\n- 8 satuan = 8\n- Total = **345.678**\n\n### Soal Cerita\n\n**Soal:** Harga mobil Rp245.500.000. Harga motor Rp24.550.000. Berapa selisihnya?\n\n**Jawab:**\n- 245.500.000 - 24.550.000\n- = **220.950.000**\n\n### Berpikir Kritis\n\n**Soal:** Aku bilangan 6 digit. Digit pertama 7, terakhir 9, sisanya angka 0 semua. Siapa aku?\n\n**Jawab:** 700.009\n\n**Soal:** Berapa banyak bilangan 6 digit yang lebih kecil dari 200.000?\n\n**Jawab:** 100.000 (dari 100.000 sampai 199.999)\n\n### Literasi Numerasi\n\n**Soal:** Penduduk kota X 587.500 jiwa. Kota Y 578.500 jiwa. Kota mana yang lebih padat?\n\n**Jawab:** Kota X (587.500 > 578.500)"
+    },
+    {
+      "id": "mtk-5-02",
+      "title": "Operasi Pecahan (Beda Penyebut)",
+      "order": 2,
+      "expReward": 40,
+      "content": "## Operasi Pecahan Beda Penyebut\n\nTantangan baru: menyamakan penyebut!\n\n### Konsep\n\nSebelum menjumlah/mengurang, penyebut harus **sama**.\n\n**Cara:** Cari KPK dari kedua penyebut.\n\n### Contoh 1: Penjumlahan\n\n**½ + ⅓ = ?**\n\n- KPK(2,3) = 6\n- ½ = 3/6\n- ⅓ = 2/6\n- 3/6 + 2/6 = **5/6**\n\n### Contoh 2: Pengurangan\n\n**¾ - ⅔ = ?**\n\n- KPK(4,3) = 12\n- ¾ = 9/12\n- ⅔ = 8/12\n- 9/12 - 8/12 = **1/12**\n\n### Contoh 3: Campuran\n\n**2½ + 1⅓ = ?**\n\n- Pisah bilangan bulat: 2 + 1 = 3\n- Pecahan: ½ + ⅓ = 3/6 + 2/6 = 5/6\n- Total = **3 5/6**\n\n### Soal Cerita\n\n**Soal:** Ibu punya ¾ kg tepung. Dipakai ⅓ kg. Sisa tepung?\n\n**Jawab:**\n- KPK(4,3) = 12\n- ¾ = 9/12\n- ⅓ = 4/12\n- Sisa = 9/12 - 4/12 = **5/12 kg**\n\n### Berpikir Kritis\n\n**Soal:** Mana yang lebih besar: ⅔ + ⅙ atau ½ + ¼?\n\n**Jawab:**\n- ⅔ + ⅙ = 4/6 + 1/6 = 5/6\n- ½ + ¼ = 2/4 + 1/4 = 3/4 = 9/12\n- 5/6 = 10/12\n- **⅔ + ⅙ lebih besar**"
+    },
+    {
+      "id": "mtk-5-03",
+      "title": "Persen & Desimal",
+      "order": 3,
+      "expReward": 40,
+      "content": "## Persen & Desimal\n\nNumerasi dalam diskon, statistik, dan uang!\n\n### Konversi Persen ↔ Desimal ↔ Pecahan\n\n| Persen | Desimal | Pecahan |\n|--------|---------|---------|\n| 10% | 0,1 | 1/10 |\n| 25% | 0,25 | ¼ |\n| 50% | 0,5 | ½ |\n| 75% | 0,75 | ¾ |\n| 100% | 1 | 1 |\n\n### Cara Hitung Persen\n\n**Rumus:** Persen × Nilai\n\n**Contoh:** 20% dari 50.000 = 0,2 × 50.000 = **10.000**\n\n### Soal Diskon\n\n**Soal:** Baju harga Rp200.000, diskon 25%. Berapa harga bayar?\n\n**Jawab:**\n- Diskon = 25% × 200.000 = 50.000\n- Bayar = 200.000 - 50.000 = **Rp150.000**\n\n### Soal Cerita Bunga\n\n**Soal:** Tabungan Rp1.000.000 dengan bunga 5% per tahun. Bunga 1 tahun?\n\n**Jawab:** 5% × 1.000.000 = **Rp50.000**\n\n### Berpikir Kritis\n\n**Soal:** Mana lebih untung: diskon 20% + 10%, atau diskon 30%?\n\n**Jawab:**\n- 20% + 10%: (100-20) × (100-10) = 80% × 90% = 72% → bayar 72% (diskon total 28%)\n- 30% langsung → bayar 70% (diskon total 30%)\n- **Diskon 30% langsung lebih untung**\n\n### Literasi Numerasi\n\n**Soal:** Dari 400 siswa, 60% perempuan. Berapa siswa perempuan?\n\n**Jawab:** 60% × 400 = **240 siswa**"
+    },
+    {
+      "id": "mtk-5-04",
+      "title": "Perbandingan & Skala",
+      "order": 4,
+      "expReward": 40,
+      "content": "## Perbandingan & Skala\n\nMembaca peta, resep, dan data!\n\n### Perbandingan\n\n**Bentuk:** a : b\n\n**Contoh:** 3 : 5 artinya setiap 3 bagian A, ada 5 bagian B.\n\n### Perbandingan Senilai\n\nSemakin banyak A, semakin banyak B.\n\n**Contoh:**\n- 2 buku = Rp10.000\n- 4 buku = Rp20.000\n- 6 buku = Rp30.000\n\n**Rumus:** a₁/b₁ = a₂/b₂\n\n### Skala\n\n**Skala 1 : 100.000** artinya 1 cm di peta = 100.000 cm di dunia nyata (1 km).\n\n### Soal Skala\n\n**Soal:** Jarak 2 kota di peta 5 cm. Skala 1 : 500.000. Jarak sebenarnya?\n\n**Jawab:**\n- 5 cm × 500.000 = 2.500.000 cm\n- = **25 km**\n\n### Soal Resep\n\n**Soal:** Resep 1 kue butuh 200 gram tepung. Untuk 3 kue, butuh berapa tepung?\n\n**Jawab:** 3 × 200 = **600 gram**\n\n### Berpikir Kritis\n\n**Soal:** Perbandingan uang Ani dan Budi = 3 : 5. Jumlah uang mereka Rp80.000. Uang Budi?\n\n**Jawab:**\n- Total perbandingan = 3 + 5 = 8\n- 1 bagian = 80.000 ÷ 8 = 10.000\n- Budi = 5 × 10.000 = **Rp50.000**\n\n### Literasi Numerasi\n\n**Soal:** Dari 60 siswa, perbandingan laki : perempuan = 2 : 3. Berapa siswa perempuan?\n\n**Jawab:**\n- Total = 2 + 3 = 5 bagian\n- 1 bagian = 60 ÷ 5 = 12\n- Perempuan = 3 × 12 = **36 siswa**"
+    },
+    {
+      "id": "mtk-5-05",
+      "title": "Kecepatan, Jarak, Waktu",
+      "order": 5,
+      "expReward": 45,
+      "content": "## Kecepatan, Jarak, Waktu\n\nRumus penting dalam kehidupan!\n\n### Rumus\n\n- **Kecepatan (v) = Jarak (s) ÷ Waktu (t)**\n- **Jarak (s) = Kecepatan (v) × Waktu (t)**\n- **Waktu (t) = Jarak (s) ÷ Kecepatan (v)**\n\n### Contoh 1: Cari Kecepatan\n\n**Soal:** Mobil menempuh 180 km dalam 3 jam. Kecepatannya?\n\n**Jawab:** 180 ÷ 3 = **60 km/jam**\n\n### Contoh 2: Cari Jarak\n\n**Soal:** Sepeda motor melaju 40 km/jam selama 2,5 jam. Jarak?\n\n**Jawab:** 40 × 2,5 = **100 km**\n\n### Contoh 3: Cari Waktu\n\n**Soal:** Jarak 240 km, kecepatan 80 km/jam. Berapa jam?\n\n**Jawab:** 240 ÷ 80 = **3 jam**\n\n### Soal Cerita\n\n**Soal:** Ayah berangkat jam 06.00, sampai jam 08.30. Jarak 150 km. Kecepatan?\n\n**Jawab:**\n- Waktu = 2 jam 30 menit = 2,5 jam\n- Kecepatan = 150 ÷ 2,5 = **60 km/jam**\n\n### Berpikir Kritis\n\n**Soal:** Andi naik mobil 60 km/jam, Budi naik motor 45 km/jam. Jarak sama 90 km. Siapa sampai dulu?\n\n**Jawab:**\n- Andi: 90 ÷ 60 = 1,5 jam = 1 jam 30 menit\n- Budi: 90 ÷ 45 = 2 jam\n- **Andi sampai dulu**\n\n### Literasi Numerasi\n\n**Soal:** Rina jalan kaki 4 km/jam selama 45 menit. Jarak?\n\n**Jawab:**\n- 45 menit = 0,75 jam\n- 4 × 0,75 = **3 km**"
+    }
+  ],
+  "quizzes": [
+    { "lessonId": "mtk-5-01", "type": "PILIHAN_GANDA", "question": "Angka 8 pada 345.678 menempati tempat...", "options": ["Puluhan ribu", "Ribuan", "Ratusan", "Satuan"], "answer": "Satuan", "exp": 15 },
+    { "lessonId": "mtk-5-01", "type": "PILIHAN_GANDA", "question": "Harga mobil Rp245.500.000, motor Rp24.550.000. Selisih?", "options": ["220.950.000", "221.000.000", "230.950.000", "220.500.000"], "answer": "220.950.000", "exp": 15 },
+    { "lessonId": "mtk-5-01", "type": "PILIHAN_GANDA", "question": "Aku 6 digit. Kiri 7, kanan 9, tengah 0. Siapa aku?", "options": ["70.009", "700.009", "700.090", "7.000.009"], "answer": "700.009", "exp": 15 },
+    { "lessonId": "mtk-5-01", "type": "PILIHAN_GANDA", "question": "Penduduk kota X 587.500, kota Y 578.500. Kota lebih padat?", "options": ["Kota X", "Kota Y", "Sama", "Tidak tahu"], "answer": "Kota X", "exp": 15 },
+    { "lessonId": "mtk-5-01", "type": "PILIHAN_GANDA", "question": "Berapa banyak bilangan 6 digit yang < 200.000?", "options": ["99.999", "100.000", "100.001", "199.999"], "answer": "100.000", "exp": 15 },
+
+    { "lessonId": "mtk-5-02", "type": "PILIHAN_GANDA", "question": "½ + ⅓ = ?", "options": ["2/5", "5/6", "1/6", "3/6"], "answer": "5/6", "exp": 15 },
+    { "lessonId": "mtk-5-02", "type": "PILIHAN_GANDA", "question": "¾ - ⅔ = ?", "options": ["1/12", "1/6", "5/12", "1/3"], "answer": "1/12", "exp": 15 },
+    { "lessonId": "mtk-5-02", "type": "PILIHAN_GANDA", "question": "Ibu punya ¾ kg tepung, dipakai ⅓ kg. Sisa?", "options": ["4/12 kg", "5/12 kg", "1/2 kg", "2/3 kg"], "answer": "5/12 kg", "exp": 15 },
+    { "lessonId": "mtk-5-02", "type": "PILIHAN_GANDA", "question": "Mana yang lebih besar: ⅔+⅙ atau ½+¼?", "options": ["⅔+⅙", "½+¼", "Sama", "Tidak tahu"], "answer": "⅔+⅙", "exp": 15 },
+    { "lessonId": "mtk-5-02", "type": "PILIHAN_GANDA", "question": "2½ + 1⅓ = ?", "options": ["3 5/6", "3 1/6", "4 5/6", "3 2/5"], "answer": "3 5/6", "exp": 15 },
+
+    { "lessonId": "mtk-5-03", "type": "PILIHAN_GANDA", "question": "20% dari Rp50.000 = ?", "options": ["Rp5.000", "Rp10.000", "Rp15.000", "Rp20.000"], "answer": "Rp10.000", "exp": 15 },
+    { "lessonId": "mtk-5-03", "type": "PILIHAN_GANDA", "question": "Baju Rp200.000 diskon 25%. Harga bayar?", "options": ["Rp150.000", "Rp160.000", "Rp175.000", "Rp180.000"], "answer": "Rp150.000", "exp": 15 },
+    { "lessonId": "mtk-5-03", "type": "PILIHAN_GANDA", "question": "Dari 400 siswa, 60% perempuan. Berapa perempuan?", "options": ["160", "200", "240", "260"], "answer": "240", "exp": 15 },
+    { "lessonId": "mtk-5-03", "type": "PILIHAN_GANDA", "question": "Mana lebih untung: diskon 20%+10% atau 30%?", "options": ["20%+10%", "30%", "Sama", "Tidak bisa ditentukan"], "answer": "30%", "exp": 15 },
+    { "lessonId": "mtk-5-03", "type": "PILIHAN_GANDA", "question": "Tabungan Rp1.000.000 bunga 5%/tahun. Bunga 1 tahun?", "options": ["Rp5.000", "Rp50.000", "Rp500.000", "Rp100.000"], "answer": "Rp50.000", "exp": 15 },
+
+    { "lessonId": "mtk-5-04", "type": "PILIHAN_GANDA", "question": "Jarak 2 kota di peta 5 cm, skala 1:500.000. Jarak asli?", "options": ["2,5 km", "25 km", "250 km", "2.500 km"], "answer": "25 km", "exp": 15 },
+    { "lessonId": "mtk-5-04", "type": "PILIHAN_GANDA", "question": "Resep 1 kue butuh 200 gram tepung. Untuk 3 kue?", "options": ["400 gram", "500 gram", "600 gram", "800 gram"], "answer": "600 gram", "exp": 15 },
+    { "lessonId": "mtk-5-04", "type": "PILIHAN_GANDA", "question": "Uang Ani:Budi = 3:5. Total Rp80.000. Uang Budi?", "options": ["Rp30.000", "Rp40.000", "Rp48.000", "Rp50.000"], "answer": "Rp50.000", "exp": 15 },
+    { "lessonId": "mtk-5-04", "type": "PILIHAN_GANDA", "question": "Dari 60 siswa, laki:perempuan = 2:3. Perempuan?", "options": ["24", "30", "36", "40"], "answer": "36", "exp": 15 },
+    { "lessonId": "mtk-5-04", "type": "PILIHAN_GANDA", "question": "Skala 1:100.000 artinya 1 cm = ?", "options": ["100 m", "1 km", "10 km", "100 km"], "answer": "1 km", "exp": 15 },
+
+    { "lessonId": "mtk-5-05", "type": "PILIHAN_GANDA", "question": "Mobil 180 km dalam 3 jam. Kecepatan?", "options": ["50 km/jam", "60 km/jam", "70 km/jam", "90 km/jam"], "answer": "60 km/jam", "exp": 15 },
+    { "lessonId": "mtk-5-05", "type": "PILIHAN_GANDA", "question": "Motor 40 km/jam selama 2,5 jam. Jarak?", "options": ["80 km", "90 km", "100 km", "120 km"], "answer": "100 km", "exp": 15 },
+    { "lessonId": "mtk-5-05", "type": "PILIHAN_GANDA", "question": "Jarak 240 km, kecepatan 80 km/jam. Waktu?", "options": ["2 jam", "2,5 jam", "3 jam", "4 jam"], "answer": "3 jam", "exp": 15 },
+    { "lessonId": "mtk-5-05", "type": "PILIHAN_GANDA", "question": "Rina jalan 4 km/jam selama 45 menit. Jarak?", "options": ["2 km", "3 km", "4 km", "5 km"], "answer": "3 km", "exp": 15 },
+    { "lessonId": "mtk-5-05", "type": "PILIHAN_GANDA", "question": "Andi 60 km/jam, Budi 45 km/jam, jarak sama 90 km. Siapa dulu sampai?", "options": ["Andi", "Budi", "Sama", "Tidak tahu"], "answer": "Andi", "exp": 15 }
+  ]
+}
